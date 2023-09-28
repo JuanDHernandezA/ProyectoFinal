@@ -1,4 +1,6 @@
-# ProyectoFinal
+# TaskList con Angular
+
+Proyecto para observar las principales herramientas y funcionalidades del framework Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
